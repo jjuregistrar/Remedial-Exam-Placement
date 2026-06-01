@@ -736,14 +736,14 @@
                             studentFound = {
                                 admissionNumber: fields[0] ? fields[0].trim() : 'Unknown',
                                 name: fields[1] ? fields[1].trim() : 'Unknown',
-                                username: fields[0] ? fields[0].trim() : 'Unknown',
-                                password: fields[0] ? fields[0].trim() : 'Unknown',
-                                gender: fields[2] ? fields[2].trim() : 'Not specified',
-                                stream: fields[4] ? fields[4].trim() : 'Not specified',
-                                examDate: fields[3] ? fields[3].trim() : 'Not specified',
-                                building: fields[5] ? fields[5].trim() : 'Not specified',
-                                room: fields[6] ? fields[6].trim() : 'Not specified',
-                                session: fields[7] ? fields[7].trim() : 'Not specified',
+                                username: fields[2] ? fields[2].trim() : 'Unknown',
+                                password: fields[3] ? fields[3].trim() : 'Unknown',
+                                gender: fields[4] ? fields[4].trim() : 'Not specified',
+                                stream: fields[5] ? fields[5].trim() : 'Not specified',
+                                examDate: fields[6] ? fields[6].trim() : 'Not specified',
+                                building: fields[7] ? fields[7].trim() : 'Not specified',
+                                room: fields[8] ? fields[8].trim() : 'Not specified',
+                                session: fields[9] ? fields[9].trim() : 'Not specified',
                             };
                             break; // Stop searching once we found the student
                         }
@@ -786,7 +786,7 @@
                         <p style="color: orange; margin-top: 10px; font-size: 12px;">Note: Using sample data - CSV file not accessible</p>
                     `;
                 } else {
-                    resultDiv.innerHTML = `<p class="red">No examinee found with username: ${input}</p>`;
+                    resultDiv.innerHTML = `<p class="red">No student found with admission number: ${input}</p>`;
                 }
             } finally {
                 // Hide loading indicator and re-enable button
