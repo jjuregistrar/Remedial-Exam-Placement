@@ -1,4 +1,4 @@
-AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Building	Room	Session
+AdmissionNumber	StudentName	username	password	Gender	StreamName	ExamDate	Building	Room	Session
 7100802	ABAS EGGE AWALE	RQE00785218	qc9j	Male	Natural Science	June 4-10, 2026	CB-19	1	Session-1
 6461394	ABBOMSA MUSTEFA MOHAMED	RQE00932118	8JXw	Male	Social Science	June 4-9, 2026	CB-21	1	Session-2
 7143424	ABDALE SHEIK ABDI	RQE00898118	744j	Male	Social Science	June 4-9, 2026	CB-21	1	Session-2
@@ -62,7 +62,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7923364	ABDIRISAK MUHUMED ABDI	RQE01984318	mAjC	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
 8475715	ABDIRISAK SAID HASSAN	RQE00714518	GuwX	Male	Social Science	June 4-9, 2026	CB-21	1	Session-2
 8475716	ABDIRIZAQ MUHUMED HUSSEIN	RQE02528318	GXWu	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
-7921567	ABDISHAKUR ALI ISMAIL			Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
+7921567	ABDISHAKUR ALI ISMAIL	RQE05453718	QEAF	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
 7926223	ABDIWAHAB YUSUF SABDOW	RQE01657518	bAWd	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
 7091034	ABDIWAKIL HASSEN ABDI	RQE01619418	3JvN	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
 7931109	ABDIWALI ABDIRAHMAN ALI	RQE00898418	pbY6	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
@@ -1016,7 +1016,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7479435	MAHLET YARED KEBEDE	RQE01187118	FMwN	Female	Social Science	June 4-9, 2026	CB-20	1	Session-3
 7493212	MAHLET YOHANNES MELAKU	RQE04066718	vpdY	Female	Natural Science	June 4-10, 2026	CB-21	3	Session-1
 6445333	MAJIDA SHAFI AHMADE	RQE00945218	Thje	Male	Social Science	June 4-9, 2026	CB-20	1	Session-3
-7393625	MAJIOK GATHEP MANYANG			Male	Natural Science	June 4-10, 2026	CB-21	3	Session-1
+7393625	MAJIOK GATHEP MANYANG	RQE05454118	rBy3	Male	Natural Science	June 4-10, 2026	CB-21	3	Session-1
 7390537	MAJUOK ODOL OTHOW	RQE00886218	KhFX	Male	Natural Science	June 4-10, 2026	CB-21	3	Session-1
 7390538	MAKAK WIYUAL WIW	RQE05320318	X4gp	Male	Social Science	June 4-9, 2026	CB-20	1	Session-3
 7429017	MAKUACH DUOP TOT	RQE05338518	dayG	Male	Social Science	June 4-9, 2026	CB-20	1	Session-3
@@ -1111,7 +1111,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7117855	MOHAMED ABDULAHI ISACK	RQE00999618	nqt8	Male	Social Science	June 4-9, 2026	CB-20	2	Session-3
 6461479	MOHAMED ABDULHAKIM DINE	RQE00813718	pFxR	Male	Social Science	June 4-9, 2026	CB-20	2	Session-3
 6438097	MOHAMED ADEM HARUN	RQE01042218	V7wy	Male	Social Science	June 4-9, 2026	CB-20	2	Session-3
-7921664	MOHAMED AHMED YUSUF			Male	Natural Science	June 4-10, 2026	CB-21	4	Session-1
+7921664	MOHAMED AHMED YUSUF	RQE05452518	Rbhw	Male	Natural Science	June 4-10, 2026	CB-21	4	Session-1
 7495779	MOHAMED DAWID HUSSEN	RQE05325018	c4U8	Male	Natural Science	June 4-10, 2026	CB-21	4	Session-1
 7924574	MOHAMED HASHI HARUN	RQE01063018	Xu94	Male	Natural Science	June 4-10, 2026	CB-21	4	Session-1
 7925149	MOHAMED HASSEN ALI	RQE00836518	ufUx	Male	Natural Science	June 4-10, 2026	CB-21	4	Session-1
@@ -1190,7 +1190,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 6110712	MUSSA HASSEN MUSSA	RQE04723018	D7Vf	Male	Social Science	June 4-9, 2026	CB-20	3	Session-3
 6439566	MUSTAFA AHMED TOTIBO	RQE00796618	aVGa	Male	Social Science	June 4-9, 2026	CB-20	3	Session-3
 8476066	MUSTAFE MOHAMOUD AHMED	RQE00950418	rWQY	Male	Natural Science	June 4-10, 2026	CB-21	5	Session-1
-7925154	MUSTAQ AHMED ALI			Female	Natural Science	June 4-10, 2026	CB-21	5	Session-1
+7925154	MUSTAQ AHMED ALI	RQE05441618	4ydA	Female	Natural Science	June 4-10, 2026	CB-21	5	Session-1
 6464965	MUSTARIYA ABDI USMAILE			Female	Social Science	June 4-9, 2026	CB-20	3	Session-3
 6461483	MUSTEFA ADAM MOHAMED	RQE00912018	JyYA	Male	Natural Science	June 4-10, 2026	CB-21	5	Session-1
 6458502	MUSTEFA USMAEL ABDULE	RQE00996018	dUuW	Male	Social Science	June 4-9, 2026	CB-20	3	Session-3
@@ -1331,7 +1331,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7430770	REATH PIDAK DANG	RQE01000418	UyGP	Male	Natural Science	June 4-10, 2026	CB-19	9	Session-2
 7502881	REBKA FENOTEBREHAN GETACHEW			Female	Social Science	June 4-9, 2026	CB-21	1	Session-3
 7924015	REDIAT KETEMA HAILU	RQE05354018	t39T	Female	Social Science	June 4-9, 2026	CB-21	1	Session-3
-6302362	REDIET AYELE ABEBE			Female	Natural Science	June 4-10, 2026	CB-19	9	Session-2
+6302362	REDIET AYELE ABEBE	RQE05446418	Txuc	Female	Natural Science	June 4-10, 2026	CB-19	9	Session-2
 6466246	REDIET TEGENE NIGATU			Female	Natural Science	June 4-10, 2026	CB-19	9	Session-2
 6235024	REDWAN AHMED MOHAMMED	RQE00990018	9WMJ	Male	Social Science	June 4-9, 2026	CB-21	1	Session-3
 8033069	REKIK TEZERA KIDANE	RQE01101818	RurR	Female	Natural Science	June 4-10, 2026	CB-19	9	Session-2
@@ -1388,7 +1388,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 6430803	SALADIN ABDI YUSUF	RQE00886118	YxXd	Male	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 6436843	SALADIN ELIYAS YUSUF	RQE01433018	kKPP	Male	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 6447948	SALADIN MOHAMMEDJEMAL YUSUF	RQE00873718	cJmY	Male	Natural Science	June 4-10, 2026	CB-19	10	Session-2
-6202622	SALIM HUSSEN ALI			Male	Social Science	June 4-9, 2026	CB-21	2	Session-3
+6202622	SALIM HUSSEN ALI	RQE05443718	7E3A	Male	Social Science	June 4-9, 2026	CB-21	2	Session-3
 7927862	SALMA MAWLID ADAM	RQE01137718	xnKb	Female	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 7921714	SALMA QORANE SAHID	RQE00847518	GHMm	Female	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 7926261	SALMA RASHID TAYIB	RQE02001018	Tc3t	Female	Social Science	June 4-9, 2026	CB-21	2	Session-3
@@ -1485,7 +1485,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 6430829	SOSINA SISAY ALEMU	RQE00796118	U6g8	Female	Social Science	June 4-9, 2026	CB-21	3	Session-3
 5986095	SRNAY AWEKE ADISU			Female	Social Science	June 4-9, 2026	CB-21	3	Session-3
 8476185	SUAD MOHAMED MOHAMUD			Female	Natural Science	June 4-10, 2026	CB-20	1	Session-2
-7927871	SUDAYS IBRAHIM SULDAN			Male	Natural Science	June 4-10, 2026	CB-20	1	Session-2
+7927871	SUDAYS IBRAHIM SULDAN	RQE05446018	bGCA	Male	Natural Science	June 4-10, 2026	CB-20	1	Session-2
 7923438	SUDAYS MAHAMED DEK	RQE01610118	GMd6	Male	Natural Science	June 4-10, 2026	CB-20	1	Session-2
 6202642	SUDEYS AHMED SEID	RQE00747318	nCkU	Male	Natural Science	June 4-10, 2026	CB-20	1	Session-2
 7434533	SUDEYSI ABDI MOHAMMED			Male	Natural Science	June 4-10, 2026	CB-20	1	Session-2
@@ -1586,7 +1586,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7426918	WAN TONGYIK WAN	RQE00858718	HQqc	Male	Social Science	June 4-9, 2026	CB-21	4	Session-3
 7393822	WANDING NHIAL MUON	RQE00897418	TmJC	Male	Social Science	June 4-9, 2026	CB-21	4	Session-3
 7405047	WANY DUONG GUANG	RQE00910718	cEXa	Male	Social Science	June 4-9, 2026	CB-21	4	Session-3
-6447959	WAYNISHET ASEFA ADUGNA			Female	Social Science	June 4-9, 2026	CB-21	4	Session-3
+6447959	WAYNISHET ASEFA ADUGNA	RQE05445318	EBy6	Female	Social Science	June 4-9, 2026	CB-21	4	Session-3
 7426924	WEL JANY JUOLEK	RQE00910618	9VvH	Male	Social Science	June 4-9, 2026	CB-21	4	Session-3
 7813355	WOLELA EYOB LEMENGO	RQE00898318	ga3D	Male	Natural Science	June 4-10, 2026	CB-20	3	Session-2
 6314541	WONDOSEN MOGES ABEBE	RQE01221718	dKAG	Male	Social Science	June 4-9, 2026	CB-21	4	Session-3
@@ -1808,7 +1808,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7930013	ABDISALAM BASHIR ABDILAHI	RQE03378018	ukdm	Male	Natural Science	June 4-10, 2026	CB-19	1	Session-2
 7923371	AMIN AHMED ABDIRAHMAN			Male	Natural Science	June 4-10, 2026	CB-19	1	Session-2
 8476038	MUAD ABDIRASHID ABDILAHI	RQE00784318	PdjK	Male	Natural Science	June 4-10, 2026	CB-19	4	Session-2
-7096957	SAKARIYE ABDINASIR TAHIR			Male	Natural Science	June 4-10, 2026	CB-19	10	Session-2
+7096957	SAKARIYE ABDINASIR TAHIR	RQE05443018	DU8R	Male	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 7929995	ABDIASIS ALI IBRAHIM			Male	Natural Science	June 4-10, 2026	CB-19	1	Session-2
 7091276	KHALID ABDI MUHUMED	RQE00729818	P3Xd	Male	Natural Science	June 4-10, 2026	CB-19	3	Session-2
 8475939	ISRA FUAD ALI			Female	Natural Science	June 4-10, 2026	CB-20	4	Session-1
@@ -1851,7 +1851,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 8475930	IKRAN ABDINASIR MAHAMED	RQE00818218	RkTt	Female	Natural Science	June 4-10, 2026	CB-19	3	Session-2
 7930078	SAYNAB MOHAMED SAHID	RQE00836118	RUYT	Female	Natural Science	June 4-10, 2026	CB-19	11	Session-2
 7921694	NIMOHODAN ABDI HUSEEN	RQE01121618	8CCP	Female	Natural Science	June 4-10, 2026	CB-19	6	Session-2
-7930031	HAMSE DAHIR ABDI			Male	Natural Science	June 4-10, 2026	CB-19	2	Session-2
+7930031	HAMSE DAHIR ABDI	RQE05441518	hN9G	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-2
 7921571	ABDIWAHID HASSAN ABDIWALI	RQE00974418	cebB	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-1
 7926242	IFRAH MAHAMED AHMED	RQE01217518	PH6c	Female	Natural Science	June 4-10, 2026	CB-19	3	Session-2
 6336232	NATNAEL ASFAW YILMA	RQE00917618	AaX4	Male	Natural Science	June 4-10, 2026	CB-19	5	Session-2
@@ -1892,7 +1892,7 @@ AdmissionNumber	StudentName	Username	Password	Gender	StreamName	ExamDate	Buildin
 7921707	SADIYA MOHAMUD KADIYE	RQE02950618	BFcc	Female	Natural Science	June 4-10, 2026	CB-19	10	Session-2
 7930028	GULED ABDULHAMID OSMAN	RQE01175418	4wQt	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-2
 7930080	SHARMARKE ABDULHAMID OSMAN			Male	Natural Science	June 4-10, 2026	CB-19	11	Session-2
-7925121	ASTHMA ABDIFATAH MOHAME			Female	Natural Science	June 4-10, 2026	CB-19	2	Session-2
+7925121	ASTHMA ABDIFATAH MOHAME	RQE05441418	GCFE	Female	Natural Science	June 4-10, 2026	CB-19	2	Session-2
 7432101	HAMDI SHEMSHEDIN MUMED	RQE00855118	E4qU	Male	Natural Science	June 4-10, 2026	CB-19	2	Session-2
 7400814	MUOCH TUT PAL	RQE05330018	dTCm	Male	Natural Science	June 4-10, 2026	CB-21	5	Session-1
 7927859	RIHAB AHMED ABBI	RQE03880318	vJKU	Female	Natural Science	June 4-10, 2026	CB-19	9	Session-2
